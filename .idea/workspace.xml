@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0deb4544-4a19-4999-bd16-c8c3760d4477" name="Changes" comment="fixed helloworld" />
+    <list default="true" id="0deb4544-4a19-4999-bd16-c8c3760d4477" name="Changes" comment="Created about HTML page.">
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +16,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Flask Main" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -90,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677130423343</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Created about HTML page.">
+      <created>1677133194940</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1677133194940</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,9 +108,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="fixed helloworld" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixed helloworld" />
+    <MESSAGE value="Created about HTML page." />
+    <option name="LAST_COMMIT_MESSAGE" value="Created about HTML page." />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/helloWorld$helloWorld.coverage" NAME="helloWorld Coverage Results" MODIFIED="1677129678011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/helloWorld$helloWorld.coverage" NAME="helloWorld Coverage Results" MODIFIED="1677133251074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
 </project>
