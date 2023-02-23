@@ -15,5 +15,5 @@ if __name__ == '__main__':
     app.run()
 
 @app.route('/about')
-def about():
-    return render_template('about.html')
+def about2():
+    return render_template('about2.html')
